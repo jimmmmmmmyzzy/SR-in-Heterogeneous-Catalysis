@@ -2,4 +2,4 @@
 
 
 # Installation 
-## PySR was used to carry symbolic regerssion ML tasks
+PySR was used to carry symbolic regerssion ML tasks
