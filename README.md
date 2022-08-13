@@ -1,1 +1,1 @@
-# Demistifying-Catalytic-Kinetics-Using-Machine-Learning
+# Towards distilling 'physical laws' in heterogeneous catalysis with symbolic regression
